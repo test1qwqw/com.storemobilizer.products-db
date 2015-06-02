@@ -3,15 +3,15 @@
   xmlns       = "http://www.w3.org/ns/widgets"
   xmlns:gap   = "http://phonegap.com/ns/1.0"
   id          = "com.storemobilizer.products-db"
-  version     = "15.06.01"
-  versionCode = "150601"
+  version     = "15.06.02"
+  versionCode = "150602"
 >
   <name>Products-DB Store Mobilizer</name>
   <author
     href="http://storemobilizer.com"
     email="info@storemobilizer.com">StoreMobilizer
   </author>
-  <description>com.storemobilizer.products-db for android</description>
+  <description>products-db for android</description>
   <preference name="phonegap-version" value="3.6.3"/>
   <preference name="fullscreen" value="true"/>
   <preference name="permissions" value="none"/>
