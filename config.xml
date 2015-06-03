@@ -3,10 +3,10 @@
   xmlns       = "http://www.w3.org/ns/widgets"
   xmlns:gap   = "http://phonegap.com/ns/1.0"
   id          = "com.storemobilizer.products-db"
-  version     = "15.06.02"
-  versionCode = "150602"
+  version     = "15.06.03"
+  versionCode = "150603"
 >
-  <name>Products-DB Store Mobilizer</name>
+  <name>Online Electronics Store</name>
   <author
     href="http://storemobilizer.com"
     email="info@storemobilizer.com">StoreMobilizer
